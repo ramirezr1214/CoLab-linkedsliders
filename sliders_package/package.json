@@ -1,0 +1,19 @@
+{
+  "name": "sliders_package",
+  "version": "1.0.0",
+  "description": "Linked Sliders",
+  "main": "LinkedSliders.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  #"repository": {
+ #   "type": "git",
+#    "url": "git+https://github.com/ramirezr1214/CoLab-linkedsliders.git"
+ # },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramirezr1214/CoLab-linkedsliders/issues"
+  },
+  "homepage": "https://github.com/ramirezr1214/CoLab-linkedsliders#readme"
+}
