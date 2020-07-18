@@ -1,2 +1,2 @@
 # CoLab-linkedsliders
-#This is a repository for Linked sliders
+This is a repository for Linked sliders
