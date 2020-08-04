@@ -1,2 +1,2 @@
 # LinkedSliders
-This is a repository for Linked sliders
+<B>This is a repository for Linked sliders </B>
