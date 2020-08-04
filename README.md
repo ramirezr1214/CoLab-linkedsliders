@@ -1,2 +1,2 @@
-# CoLab-linkedsliders
+# LinkedSliders
 This is a repository for Linked sliders
