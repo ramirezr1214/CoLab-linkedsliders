@@ -5,9 +5,9 @@
 
 <h2>Tech/framework used</h2>
 
-..*[NPM](https://www.npmjs.com/)
+⋅⋅*[NPM](https://www.npmjs.com/)
 
-..*[Mui-data tables](https://github.com/mui-org/material-ui)
+⋅⋅*[Mui-data tables](https://github.com/mui-org/material-ui)
 
 <h2>Credit</h2>
 <b>Main Contributor- Dr. Modell, Micah</b>
