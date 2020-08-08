@@ -9,6 +9,8 @@
 
 - [Mui-data tables](https://github.com/mui-org/material-ui)
 
+- [React](https://reactjs.org/)
+
 <h2>Credit</h2>
 <b>Main Contributor- Dr. Modell, Micah</b>
 
