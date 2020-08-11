@@ -7,7 +7,7 @@
 <h2>OverView</h2>
 
 <b>Linked Sliders is a small function taken from Dr. Modell's website. 
-it is used to measure out and resize data given by users on a slider. 
+It is used to measure out and resize data given by users on a slider. 
 Users can go in and rate their colleages or fellow classmates on
 a scale on different aspects of their contribution.  </b>  
   
