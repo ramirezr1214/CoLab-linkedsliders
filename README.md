@@ -7,7 +7,7 @@
 
 - [NPM](https://www.npmjs.com/)
 
-- [Mui-data tables](https://github.com/mui-org/material-ui)
+- [Mui](https://github.com/mui-org/material-ui)
 
 - [React](https://reactjs.org/)
 
