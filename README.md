@@ -1,8 +1,16 @@
 # LinkedSliders
-<b>This is a repository for Linked sliders </b>
+<b>This is a gif for Linked sliders </b>
 
 ![alt text](IMG/d96f0bb086707422ee4580b616af1fc8.gif "sliders")
 
+
+<h2>OverView</h2>
+
+<b>Linked Sliders is a small function taken from Dr. Modell's website. 
+it is used to measure out and resize data given by users on a slider. 
+Users can go in and rate their colleages or fellow classmates on
+a scale on different aspects of their contribution.  </b>  
+  
 <h2>Tech/framework used</h2>
 
 - [NPM](https://www.npmjs.com/)
