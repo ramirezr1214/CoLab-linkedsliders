@@ -23,6 +23,8 @@ a scale on different aspects of their contribution.  </b>
 
 - [React](https://reactjs.org/)
 
+<h2>Anyone who is intrested can contribute by cloning this repository to your system. Then useYou can contribute by reaching out to us at [Place Holder]. And we can provide to you</h2>
+
 <h2>Credit</h2>
 <b>Main Contributor- Dr. Modell, Micah</b>
 
