@@ -27,6 +27,6 @@ a scale on different aspects of their contribution.  </b>
 <b>Anyone who is intrested can contribute by cloning this repository to your system. Reach out to us at [Place Holder] keep us updated on what you have changed and/or what ideas you may have to make a change and we can work together on implementation.</b>
 
 <h2>Credit</h2>
-<b>Main Contributor- Dr. Modell, Micah</b>
+<b>Dr. Modell, Micah</b>
 
-<b>Repository Creator- Ricardo Ramirez</b>
+<b>Ricardo Ramirez</b>
