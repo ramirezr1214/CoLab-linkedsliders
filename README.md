@@ -1,5 +1,5 @@
 # LinkedSliders
-<b>This is a gif for Linked sliders </b>
+<b>This is a demonstration of Linked sliders module </b>
 
 ![alt text](IMG/d96f0bb086707422ee4580b616af1fc8.gif "sliders")
 
